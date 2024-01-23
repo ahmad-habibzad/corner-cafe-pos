@@ -39,13 +39,6 @@ The Coffee Shop App is a Java-based application developed using Spring Boot. It 
 1. **Order Processing:**
    - Process incoming orders.
 
-### Display Menu Item Details
-
-1. **Menu Item Information:**
-   - Display menu item name.
-   - Price per size.
-   - Additional costs for specific additions (e.g., Espresso Shot $2.49, Coconut Milk $0.50, Almond Milk $0.75).
-
 ## Planned Features
 
 1. **Manager Inventory Management:**
