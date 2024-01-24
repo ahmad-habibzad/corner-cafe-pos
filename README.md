@@ -3,9 +3,9 @@
 ## Overview
 
 The Coffee Shop App is a Java-based application developed using Spring Boot. It provides a platform with distinct roles for Users, Managers, Cashiers, and Baristas, offering a variety of features to enhance the coffee shop experience.
+[Story Board - Trelo]([https://link-url-here.org](https://trello.com/b/iMJPMQAQ/brewscape))
 
 ## Technology Used
-
 - Java
 - Spring Boot
 
@@ -14,8 +14,8 @@ The Coffee Shop App is a Java-based application developed using Spring Boot. It 
 ### Users
 
 1. **User Profiles:**
-   - Each user has a profile.
-   - Users can log in.
+   - Each user has a profile
+   - Users can authenticate using username and password
 
 ### Manager
 
@@ -31,32 +31,32 @@ The Coffee Shop App is a Java-based application developed using Spring Boot. It 
 ### Cashier
 
 1. **Order Management:**
-   - Display the menu.
-   - Place an order with both positive and negative quantity for increase and decrease.
+   - View the menu
+   - Place an order 
 
 ### Barista
 
 1. **Order Processing:**
-   - Process incoming orders.
+   - Process incoming orders
 
 ## Planned Features
 
 1. **Manager Inventory Management:**
-   - View the inventory.
-   - Add, update, and delete inventory.
+   - View the inventory
+   - Add, update, and delete inventory
 
 2. **Customer Online Profile:**
-   - Create an online profile.
+   - Create an online profile
 
 3. **Customer Online Ordering:**
-   - View the menu.
-   - Place orders online.
+   - View the menu
+   - Place orders online
 
 4. **Menu Enhancement:**
    - Include menu item descriptions (ingredients, calories).
 
 5. **Customer Preferences:**
-   - Add coffee to favorites.
+   - Add coffee to favorites
 
 6. **Diverse Product Offerings:**
    - Include various products such as milkshakes, smoothies, sodas, water, tea, kombucha, juices, cookies, brownies, cakes, and snacks.
@@ -65,7 +65,7 @@ The Coffee Shop App is a Java-based application developed using Spring Boot. It 
    - Allow customers to provide ratings.
 
 8. **Search Functionality:**
-   - Search for a product based on a keyword.
+   - Search for a product based on a keyword
 
 9. **Order Tracking:**
    - Display orders in the queue and those being processed.
@@ -77,7 +77,7 @@ The Coffee Shop App is a Java-based application developed using Spring Boot. It 
     - Include ingredients and calorie details for each menu item.
 
 12. **User Interface (UI):**
-    - Develop a graphical user interface.
+    - Develop a graphical user interface
 
 ## Note
 
