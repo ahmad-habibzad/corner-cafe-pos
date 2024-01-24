@@ -9,6 +9,8 @@ The Coffee Shop App is a Java-based application developed using Spring Boot. It 
 ## Tech Stack
 - Java
 - Spring Boot
+- Spring JDBC
+- PostgreSQL
 
 ## Features
 
