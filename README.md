@@ -6,7 +6,7 @@ The Coffee Shop App is a Java-based application developed using Spring Boot. It 
 
 [Story Board - Trello](https://trello.com/b/iMJPMQAQ/brewscape)
 
-## Technology Used
+## Tech Stack
 - Java
 - Spring Boot
 
