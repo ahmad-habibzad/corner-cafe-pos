@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>dev.habibzad</groupId>
-    <artifactId>brewscape-coffeeshop-pos</artifactId>
+    <artifactId>coffeeshop-pos</artifactId>
     <version>1.0</version>
     <name>brewscape</name>
     <description>Coffee Shop POS System</description>
